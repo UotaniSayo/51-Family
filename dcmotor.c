@@ -24,7 +24,7 @@ The motor driving ic is L9110
 //Crystal Frequency 12MHz
 
 //TIMER0: PWM output and timing
-//TIMER1: Series interface control
+//TIMER1: Serial port control
 //TIMER2: Pulse count
 
 //A phase of the motor connects to VCC, when B phase to PWM out(P1.2)
